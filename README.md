@@ -5,9 +5,9 @@ Random walk negative binomial: a model for persistent count series.
 
 **Date**: October 2012
 
-**By**: Andreas Beger ([andreas.beger@duke.edu](mailto:andreas.beger@duke.edu))
+**By**: Andreas Beger ([andreas.beger@duke.edu](mailto:andreas.beger@duke.edu)), Kentaro Fukumoto, and Will H. Moore
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Random walk negative binomial</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Andreas Beger</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Random walk negative binomial</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Andreas Beger, Kentaro Fukumomto, and Will Moore</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.
 
 Please reference:
 Beger, Andreas. 2012. ``Random walk negative binomial model for persistent count series.'' Post at <andybeger.wordpress.com>.
